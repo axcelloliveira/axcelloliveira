@@ -20,5 +20,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=axcelloliveira&show_icons=true&locale=en&layout=compact" alt="axcellolliveira" /></p>
 
-<p>&nbsp;<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=axcelloliveira&show_icons=true&locale=en" alt="axcellolliveira" /></p>
+<p>&nbsp;<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=axcelloliveira&show_icons=true&locale=en" alt="axcelloliveira" /></p>
 
