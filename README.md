@@ -2,7 +2,7 @@
 <h3 align="center">Um Desenvolvedor Flutter</h3>
 
 
-- 🔭 Atualmente estou trabalhando no projeto: [Nordeste Gerencial](https://github.com/axcelloliveira/gerencial)
+- 🔭 Atualmente estou trabalhando nos projetos: [Nordeste Gerencial](https://github.com/axcelloliveira/gerencial) e [Viagens App](https://github.com/axcelloliveira/app_viagens)
 
 - 🌱Atualmente aprendendo **Node.js e aprimorando meus conhecimentos em Flutter**
 
