@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou Axcell Oliveira</h1>
+<h1 align="center">Sou Axcell Oliveira</h1>
 <h3 align="center">Um Desenvolvedor Flutter</h3>
 
 
